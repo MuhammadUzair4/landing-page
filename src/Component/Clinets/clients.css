@@ -1,0 +1,21 @@
+.clients {
+  text-align: center;
+  padding: 60px 40px;
+}
+
+.clients h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.clients p {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.logos {
+  display: flex;
+  justify-content: center;
+  gap: 150px;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,17 @@
+.cta {
+  text-align: center;
+  padding: 80px 40px;
+  background: #16a34a;
+  color: #fff;
+}
+
+.cta h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.cta .btn {
+  background: #fff;
+  color: #16a34a;
+  font-weight: bold;
+}
